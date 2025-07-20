@@ -1,8 +1,8 @@
-# Challenge2-Alura-Store
-
 ## 📊 Estudio de Evasión de Clientes
 
-Este proyecto busca identificar los factores que influyen en la pérdida de clientes dentro de una empresa de servicios. Para ello, se llevó a cabo un proceso integral que incluye la recolección de datos desde una API, su limpieza, análisis y visualización.
+Proyecto realizado en el marco del Desafío Oracle- Alura Latam Data Science. Este proyecto busca identificar los factores que influyen en la pérdida de clientes dentro de una empresa de servicios. Para ello, se llevó a cabo un proceso integral que incluye la recolección de datos desde una API, su limpieza, análisis y visualización.
+
+Se utilizaron herramientas de análisis exploratorio y visualizaciones interactivas para descubrir patrones clave y generar reportes que ayuden a tomar decisiones enfocadas en mejorar la retención de usuarios.Este proyecto busca identificar los factores que influyen en la pérdida de clientes dentro de una empresa de servicios. Para ello, se llevó a cabo un proceso integral que incluye la recolección de datos desde una API, su limpieza, análisis y visualización.
 
 Se utilizaron herramientas de análisis exploratorio y visualizaciones interactivas para descubrir patrones clave y generar reportes que ayuden a tomar decisiones enfocadas en mejorar la retención de usuarios.
 
