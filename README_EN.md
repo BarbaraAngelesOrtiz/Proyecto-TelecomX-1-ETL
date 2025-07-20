@@ -34,10 +34,10 @@ Exploratory analysis tools and interactive visualizations were used to discover 
 ## 📁 Project Structure
 
 ``` tap
-├── TelecomX_LATAM_es.ipynb
-├── TelecomX_LATAM_es.ipynb
+├── TelecomX_LATAM_es.ipynb  #Code in Spanish
+├── TelecomX_LATAM_en.ipynb  #Code in English
 ├── _src#Graphics
-├── requirements.txt # Libraries needed to run the project
+├── requirements.txt         #Libraries needed to run the project
 ```
 
 ## 📊 Visualization Example
