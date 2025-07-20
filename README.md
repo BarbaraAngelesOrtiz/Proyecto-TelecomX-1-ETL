@@ -1,1 +1,72 @@
 # Challenge2-Alura-Store-
+
+## 📊 Estudio de Evasión de Clientes
+
+Este proyecto busca identificar los factores que influyen en la pérdida de clientes dentro de una empresa de servicios. Para ello, se llevó a cabo un proceso integral que incluye la recolección de datos desde una API, su limpieza, análisis y visualización.
+
+Se utilizaron herramientas de análisis exploratorio y visualizaciones interactivas para descubrir patrones clave y generar reportes que ayuden a tomar decisiones enfocadas en mejorar la retención de usuarios.
+
+## 🔍 Objetivos del Proyecto
+
+* Obtener y tratar datos desde una API externa.
+
+* Implementar un proceso ETL (Extracción, Transformación y Carga).
+
+* Depurar y organizar los datos para su análisis.
+
+* Desarrollar visualizaciones clave para identificar patrones de comportamiento.
+
+* Explorar los datos y generar un reporte con hallazgos significativos.
+
+## 🛠️ Tecnologías Utilizadas
+
+* Python 3.x
+  
+* Google Colab
+  
+* Pandas
+  
+* NumPy
+  
+* Matplotlib
+  
+* Seaborn
+  
+* Plotly
+  
+* Requests (para conexión con API)
+
+## 🧠 Principales Insights
+* Ciertos perfiles de clientes presentan una mayor propensión a abandonar el servicio, como aquellos con cargos mensuales más altos o menor antigüedad.
+
+* Se detectaron patrones de uso y facturación asociados al churn.
+
+* Las visualizaciones permitieron segmentar a los clientes en grupos de riesgo y establecer relaciones entre variables clave.
+
+* El análisis sugirió acciones de retención basadas en el perfil del cliente.
+
+## 📁 Estructura del Proyecto
+
+```bash
+├── ETL.ipynb              # Obtención y procesamiento de datos desde la API
+├── EDA.ipynb              # Análisis exploratorio y visualizaciones
+├── Reporte_Insights.pdf   # Documento con hallazgos clave
+├── requirements.txt       # Librerías necesarias para ejecutar el proyecto
+```
+
+## 📊 Ejemplo de Visualización
+
+### Recuento de evasión por variables categóricas
+<img width="1984" height="1784" alt="image2_es" src="https://github.com/user-attachments/assets/dde4ceae-2b29-4023-900e-0aec1d42c5fe" />
+
+### Conteo de evasión por variables binarias
+<img width="1984" height="1784" alt="image4_es" src="https://github.com/user-attachments/assets/c76ea14f-07ea-4979-bacd-3c1c18c2691b" />
+
+### Gráfico de calor (heatmap) de tasas de evasión por variable y subcategorías
+<img width="1292" height="784" alt="image5_es" src="https://github.com/user-attachments/assets/97c3a0fb-486c-4da9-9648-b615f8977f7d" />
+
+### Mapa de calor de correlaciones
+<img width="1123" height="972" alt="image6_es" src="https://github.com/user-attachments/assets/e491103a-85c0-4466-a887-f4bdde28b171" />
+
+
+
