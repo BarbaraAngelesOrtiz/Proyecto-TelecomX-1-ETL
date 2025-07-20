@@ -9,40 +9,26 @@ Se utilizaron herramientas de análisis exploratorio y visualizaciones interacti
 ## 🔍 Objetivos del Proyecto
 
 * Obtener y tratar datos desde una API externa.
-
 * Implementar un proceso ETL (Extracción, Transformación y Carga).
-
 * Depurar y organizar los datos para su análisis.
-
 * Desarrollar visualizaciones clave para identificar patrones de comportamiento.
-
 * Explorar los datos y generar un reporte con hallazgos significativos.
 
 ## 🛠️ Tecnologías Utilizadas
 
 * Python 3.x
-  
 * Google Colab
-  
 * Pandas
-  
 * NumPy
-  
 * Matplotlib
-  
 * Seaborn
-  
 * Plotly
-  
 * Requests (para conexión con API)
 
 ## 🧠 Principales Insights
 * Ciertos perfiles de clientes presentan una mayor propensión a abandonar el servicio, como aquellos con cargos mensuales más altos o menor antigüedad.
-
 * Se detectaron patrones de uso y facturación asociados al churn.
-
 * Las visualizaciones permitieron segmentar a los clientes en grupos de riesgo y establecer relaciones entre variables clave.
-
 * El análisis sugirió acciones de retención basadas en el perfil del cliente.
 
 ## 📁 Estructura del Proyecto
