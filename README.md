@@ -1,4 +1,4 @@
-# Challenge2-Alura-Store-
+# Challenge2-Alura-Store
 
 ## 📊 Estudio de Evasión de Clientes
 
