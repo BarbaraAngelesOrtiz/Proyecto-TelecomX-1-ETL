@@ -34,9 +34,9 @@ Se utilizaron herramientas de análisis exploratorio y visualizaciones interacti
 ## 📁 Estructura del Proyecto
 
 ```bash
-├── ETL.ipynb              # Obtención y procesamiento de datos desde la API
-├── EDA.ipynb              # Análisis exploratorio y visualizaciones
-├── Reporte_Insights.pdf   # Documento con hallazgos clave
+├── TelecomX_LATAM_en.ipynb          
+├── TelecomX_LATAM_es.ipynb           
+├── _src   # Gráficos
 ├── requirements.txt       # Librerías necesarias para ejecutar el proyecto
 ```
 
@@ -64,20 +64,16 @@ git clone https://github.com/usuario/proyecto-churn.git
 2. Instalá las dependencias necesarias (recomendado: usar un entorno virtual):
 
 ```bash
-pip install pandas matplotlib seaborn numpy plotly requests
+pip install pandas matplotlib seaborn numpy plotly math matplotlib requests
 ```
 3. Abrí el notebook en Jupyter, VSCode o Google Colab:
 
-```bash
-
-jupyter notebook ETL.ipynb
-```
 4. Ejecutá las celdas secuencialmente para replicar el análisis completo.
 
 ## 📂 Project Access
 
-- [Notebook in Spanish](./AluraStoreLatam_es.ipynb)
-- [Notebook in English](./AluraStoreLatam_en.ipynb)
+- [Notebook in Spanish](./TelecomX_LATAM_es.ipynb)
+- [Notebook in English](./TelecomX_LATAM_en.ipynb)
 
 ## Author
 **Bárbara Ángeles Ortiz**
