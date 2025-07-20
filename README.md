@@ -84,3 +84,5 @@ pip install pandas matplotlib seaborn numpy plotly math matplotlib requests
 
 ![Status](https://img.shields.io/badge/status-finished-brightgreen) 📅 Julio 2025
 
+![Python](https://img.shields.io/badge/python-3.10-blue)
+
