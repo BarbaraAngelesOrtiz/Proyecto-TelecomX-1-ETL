@@ -87,3 +87,5 @@ pip install pandas matplotlib seaborn numpy plotly math requests matplotlib
 [LinkedIn](https://www.linkedin.com/in/barbaraangelesortiz/) | [GitHub](https://github.com/BarbaraAngelesOrtiz)
 
 ![Status](https://img.shields.io/badge/status-finished-brightgreen) 📅 July 2025
+
+![Python](https://img.shields.io/badge/python-3.10-blue)
