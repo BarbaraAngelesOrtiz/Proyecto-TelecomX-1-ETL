@@ -68,5 +68,37 @@ Se utilizaron herramientas de análisis exploratorio y visualizaciones interacti
 ### Mapa de calor de correlaciones
 <img width="1123" height="972" alt="image6_es" src="https://github.com/user-attachments/assets/e491103a-85c0-4466-a887-f4bdde28b171" />
 
+## 🛠️ Instrucciones para Ejecutar el Notebook
 
+1. Cloná o descargá este repositorio:
+
+```bash
+git clone https://github.com/usuario/proyecto-churn.git 
+```
+2. Instalá las dependencias necesarias (recomendado: usar un entorno virtual):
+
+```bash
+pip install pandas matplotlib seaborn numpy plotly requests
+```
+3. Abrí el notebook en Jupyter, VSCode o Google Colab:
+
+```bash
+
+jupyter notebook ETL.ipynb
+```
+4. Ejecutá las celdas secuencialmente para replicar el análisis completo.
+
+## 📂 Project Access
+
+- [Notebook in Spanish](./AluraStoreLatam_es.ipynb)
+- [Notebook in English](./AluraStoreLatam_en.ipynb)
+
+## Author
+**Bárbara Ángeles Ortiz**
+
+<img src="https://github.com/user-attachments/assets/30ea0d40-a7a9-4b19-a835-c474b5cc50fb" width="115">
+
+[LinkedIn](https://www.linkedin.com/in/barbaraangelesortiz/) | [GitHub](https://github.com/BarbaraAngelesOrtiz)
+
+![Status](https://img.shields.io/badge/status-finished-brightgreen) 📅 Julio 2025
 
