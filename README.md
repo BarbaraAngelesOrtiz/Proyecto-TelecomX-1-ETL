@@ -34,8 +34,8 @@ Se utilizaron herramientas de análisis exploratorio y visualizaciones interacti
 ## 📁 Estructura del Proyecto
 
 ```bash
-├── TelecomX_LATAM_en.ipynb          
-├── TelecomX_LATAM_es.ipynb           
+├── TelecomX_LATAM_es.ipynb  #Código en español        
+├── TelecomX_LATAM_en.ipynb  #Código en inglés          
 ├── _src   # Gráficos
 ├── requirements.txt       # Librerías necesarias para ejecutar el proyecto
 ```
