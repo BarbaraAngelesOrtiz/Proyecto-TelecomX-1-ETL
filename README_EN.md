@@ -5,6 +5,7 @@ Project carried out within the framework of the Oracle-Alura Latam Data Science 
 Exploratory analysis tools and interactive visualizations were used to discover key patterns and generate reports that help make decisions focused on improving user retention. This project seeks to identify the factors that influence customer churn within a service company. To achieve this, a comprehensive process was carried out, including data collection from an API, its cleansing, analysis, and visualization.
 
 Exploratory analysis tools and interactive visualizations were used to discover key patterns and generate reports that help make decisions focused on improving user retention.
+---
 
 ## 🔍 Project Objectives
 
@@ -13,6 +14,8 @@ Exploratory analysis tools and interactive visualizations were used to discover 
 * Clean and organize data for analysis.
 * Develop key visualizations to identify behavioral patterns.
 * Explore the data and generate a report with significant findings.
+
+---
 
 ## 🛠️ Technologies Used
 
@@ -25,11 +28,15 @@ Exploratory analysis tools and interactive visualizations were used to discover 
 * Plot
 * Requests (for API connection)
 
+---
+
 ## 🧠 Key Insights
 * Certain customer profiles are more likely to churn, such as those with higher monthly charges or shorter tenure.
 * Usage and billing patterns associated with churn are detected.
 * Visualizations allowed customers to be segmented into risk groups and relationships between key variables to be established.
 * The analysis suggests retention actions based on the customer profile.
+
+---
 
 ## 📁 Project Structure
 
@@ -39,6 +46,7 @@ Exploratory analysis tools and interactive visualizations were used to discover 
 ├── _src#Graphics
 ├── requirements.txt         #Libraries needed to run the project
 ```
+---
 
 ## 📊 Visualization Example
 
@@ -57,7 +65,7 @@ Exploratory analysis tools and interactive visualizations were used to discover 
 ### Correlations heat map
 <img width="1123" height="971" alt="image6_en" src="https://github.com/user-attachments/assets/bb6e2131-3ec9-42bf-92d5-630f3211345d" />
 
-
+---
 ## 🛠️ Instructions for Running the Notebook
 
 1. Clone or download this repository:
@@ -74,11 +82,13 @@ pip install pandas matplotlib seaborn numpy plotly math requests matplotlib
 
 4. Run the cells sequentially to replicate the full analysis.
 
+---
 ## 📂 Project Access
 
 - [Notebook in Spanish](./TelecomX_LATAM_es.ipynb)
 - [Notebook in English](./TelecomX_LATAM_en.ipynb)
-
+  
+---
 ## Author
 **Bárbara Ángeles Ortiz**
 
