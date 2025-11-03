@@ -6,6 +6,8 @@ Se utilizaron herramientas de análisis exploratorio y visualizaciones interacti
 
 Se utilizaron herramientas de análisis exploratorio y visualizaciones interactivas para descubrir patrones clave y generar reportes que ayuden a tomar decisiones enfocadas en mejorar la retención de usuarios.
 
+---
+
 ## 🔍 Objetivos del Proyecto
 
 * Obtener y tratar datos desde una API externa.
@@ -13,6 +15,8 @@ Se utilizaron herramientas de análisis exploratorio y visualizaciones interacti
 * Depurar y organizar los datos para su análisis.
 * Desarrollar visualizaciones clave para identificar patrones de comportamiento.
 * Explorar los datos y generar un reporte con hallazgos significativos.
+
+---
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -25,11 +29,15 @@ Se utilizaron herramientas de análisis exploratorio y visualizaciones interacti
 * Plotly
 * Requests (para conexión con API)
 
+---
+
 ## 🧠 Principales Insights
 * Ciertos perfiles de clientes presentan una mayor propensión a abandonar el servicio, como aquellos con cargos mensuales más altos o menor antigüedad.
 * Se detectaron patrones de uso y facturación asociados al churn.
 * Las visualizaciones permitieron segmentar a los clientes en grupos de riesgo y establecer relaciones entre variables clave.
 * El análisis sugirió acciones de retención basadas en el perfil del cliente.
+
+---
 
 ## 📁 Estructura del Proyecto
 
@@ -39,6 +47,7 @@ Se utilizaron herramientas de análisis exploratorio y visualizaciones interacti
 ├── _src   # Gráficos
 ├── requirements.txt       # Librerías necesarias para ejecutar el proyecto
 ```
+---
 
 ## 📊 Ejemplo de Visualización
 
@@ -53,6 +62,8 @@ Se utilizaron herramientas de análisis exploratorio y visualizaciones interacti
 
 ### Mapa de calor de correlaciones
 <img width="1123" height="972" alt="image6_es" src="https://github.com/user-attachments/assets/e491103a-85c0-4466-a887-f4bdde28b171" />
+
+---
 
 ## 🛠️ Instrucciones para Ejecutar el Notebook
 
@@ -70,10 +81,14 @@ pip install pandas matplotlib seaborn numpy plotly math matplotlib requests
 
 4. Ejecutá las celdas secuencialmente para replicar el análisis completo.
 
+---
+
 ## 📂 Project Access
 
 - [Notebook in Spanish](./TelecomX_LATAM_es.ipynb)
 - [Notebook in English](./TelecomX_LATAM_en.ipynb)
+
+---
 
 ## Author
 **Bárbara Ángeles Ortiz**
